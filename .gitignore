@@ -1,2 +1,4 @@
 data/
 pytorch-deep-learning/
+__pycache__
+.venv/
